@@ -1,0 +1,782 @@
+[
+    {
+        "id": "5e7aaf4c2f",
+        "category": "Quantitative Aptitude",
+        "question": "A sum becomes Rs. 13,310 in 3 years at 10% compound interest. Find the principal.",
+        "options": [
+            "10000",
+            "11000",
+            "12000",
+            "9000"
+        ],
+        "correct": 0,
+        "explanation": "13310 / 1.1^3 = 10000."
+    },
+    {
+        "id": "413f7beda1",
+        "category": "Quantitative Aptitude",
+        "question": "A 180 m train crosses a pole in 9 seconds. Find its speed.",
+        "options": [
+            "60 km/h",
+            "72 km/h",
+            "80 km/h",
+            "90 km/h"
+        ],
+        "correct": 1,
+        "explanation": "180/9 = 20 m/s = 72 km/h."
+    },
+    {
+        "id": "04f72d679e",
+        "category": "Quantitative Aptitude",
+        "question": "A completes work in 12 days and B in 18 days. Together?",
+        "options": [
+            "6 days",
+            "7.2 days",
+            "8 days",
+            "9 days"
+        ],
+        "correct": 1,
+        "explanation": "Combined rate is 1/12 + 1/18 = 5/36."
+    },
+    {
+        "id": "8dd547b46e",
+        "category": "Quantitative Aptitude",
+        "question": "Two numbers are in ratio 5:7 and their HCF is 9. Find their LCM.",
+        "options": [
+            "315",
+            "280",
+            "350",
+            "405"
+        ],
+        "correct": 0,
+        "explanation": "Numbers are 45 and 63. LCM is 315."
+    },
+    {
+        "id": "296b8864b4",
+        "category": "Quantitative Aptitude",
+        "question": "Cost price is Rs. 900. Profit is 20%, discount is 10%. Find marked price.",
+        "options": [
+            "1100",
+            "1200",
+            "1250",
+            "1350"
+        ],
+        "correct": 1,
+        "explanation": "SP = 1080; MP = 1080/0.9 = 1200."
+    },
+    {
+        "id": "62946908ab",
+        "category": "Quantitative Aptitude",
+        "question": "Average of 8 numbers is 24. Replace 18 with 34. New average?",
+        "options": [
+            "25",
+            "26",
+            "27",
+            "28"
+        ],
+        "correct": 1,
+        "explanation": "New average = (192-18+34)/8 = 26."
+    },
+    {
+        "id": "a4425ee5f3",
+        "category": "Quantitative Aptitude",
+        "question": "40 litres mixture has milk:water = 7:3. How much water to add for 7:5?",
+        "options": [
+            "6 L",
+            "8 L",
+            "10 L",
+            "12 L"
+        ],
+        "correct": 1,
+        "explanation": "Milk 28 L, water 12 L. Add 8 L."
+    },
+    {
+        "id": "c545761022",
+        "category": "Quantitative Aptitude",
+        "question": "Find compound interest on Rs. 8000 at 5% for 2 years.",
+        "options": [
+            "800",
+            "820",
+            "840",
+            "860"
+        ],
+        "correct": 1,
+        "explanation": "Amount = 8820. Interest = 820."
+    },
+    {
+        "id": "d951f4a9c5",
+        "category": "Quantitative Aptitude",
+        "question": "Boat covers 30 km downstream in 2 hours and upstream in 3 hours. Stream speed?",
+        "options": [
+            "2",
+            "2.5",
+            "3",
+            "3.5"
+        ],
+        "correct": 1,
+        "explanation": "Downstream 15, upstream 10. Stream = 2.5 km/h."
+    },
+    {
+        "id": "aabced022c",
+        "category": "Quantitative Aptitude",
+        "question": "If x + 1/x = 5, find x² + 1/x².",
+        "options": [
+            "21",
+            "23",
+            "25",
+            "27"
+        ],
+        "correct": 1,
+        "explanation": "Square and subtract 2. Answer 23."
+    },
+    {
+        "id": "f59aa56740",
+        "category": "Quantitative Aptitude",
+        "question": "Two dice are thrown. Probability that their sum is 8?",
+        "options": [
+            "1/6",
+            "5/36",
+            "1/9",
+            "7/36"
+        ],
+        "correct": 1,
+        "explanation": "Five favourable outcomes out of 36."
+    },
+    {
+        "id": "37e5fc2d0a",
+        "category": "Quantitative Aptitude",
+        "question": "Income increases 20%, expenditure increases 10%. Original savings are 25% of income. Increase in savings?",
+        "options": [
+            "40%",
+            "45%",
+            "50%",
+            "60%"
+        ],
+        "correct": 2,
+        "explanation": "Take income 100: new savings = 37.5 versus 25. Increase 50%."
+    },
+    {
+        "id": "3e5b85134e",
+        "category": "Quantitative Aptitude",
+        "question": "Number of distinct arrangements of LEVEL?",
+        "options": [
+            "20",
+            "30",
+            "60",
+            "120"
+        ],
+        "correct": 1,
+        "explanation": "5!/(2! x 2!) = 30."
+    },
+    {
+        "id": "5dd2ae55f4",
+        "category": "Quantitative Aptitude",
+        "question": "One pipe fills in 15 minutes, another empties in 20 minutes. Together?",
+        "options": [
+            "45 min",
+            "50 min",
+            "60 min",
+            "75 min"
+        ],
+        "correct": 2,
+        "explanation": "Net rate = 1/60 tank per minute."
+    },
+    {
+        "id": "4822145cee",
+        "category": "Quantitative Aptitude",
+        "question": "Find sum of first 20 terms: 3, 7, 11, 15...",
+        "options": [
+            "800",
+            "820",
+            "840",
+            "860"
+        ],
+        "correct": 1,
+        "explanation": "S20 = 10 x (6 + 76) = 820."
+    },
+    {
+        "id": "b7aa02522e",
+        "category": "Logical Reasoning",
+        "question": "Find next: 2, 6, 12, 20, 30, 42, ?",
+        "options": [
+            "48",
+            "54",
+            "56",
+            "60"
+        ],
+        "correct": 2,
+        "explanation": "Pattern n(n+1). Next 7x8 = 56."
+    },
+    {
+        "id": "e539b980cc",
+        "category": "Logical Reasoning",
+        "question": "Find next: AZ, BY, CX, DW, ?",
+        "options": [
+            "EV",
+            "FU",
+            "EW",
+            "FV"
+        ],
+        "correct": 0,
+        "explanation": "First letters increase and second decrease."
+    },
+    {
+        "id": "bfe07f5967",
+        "category": "Logical Reasoning",
+        "question": "If TABLE is coded UBCMF, how is CHAIR coded?",
+        "options": [
+            "DIBJS",
+            "DIBIR",
+            "DHBJS",
+            "DICJS"
+        ],
+        "correct": 0,
+        "explanation": "Every letter shifts forward by one."
+    },
+    {
+        "id": "a3af5dbe4c",
+        "category": "Logical Reasoning",
+        "question": "A is brother of B. B is mother of C. A is C's?",
+        "options": [
+            "Father",
+            "Uncle",
+            "Brother",
+            "Grandfather"
+        ],
+        "correct": 1,
+        "explanation": "Mother's brother is maternal uncle."
+    },
+    {
+        "id": "66fcbb5b77",
+        "category": "Logical Reasoning",
+        "question": "Walk 10 km north, 6 km east, 10 km south. Final position?",
+        "options": [
+            "6 km east",
+            "6 km west",
+            "10 km north",
+            "16 km east"
+        ],
+        "correct": 0,
+        "explanation": "North and south cancel."
+    },
+    {
+        "id": "98d82c2487",
+        "category": "Logical Reasoning",
+        "question": "All programmers are logical. Some logical people are artists. Are some programmers artists?",
+        "options": [
+            "Definitely true",
+            "Definitely false",
+            "Cannot be determined",
+            "Both"
+        ],
+        "correct": 2,
+        "explanation": "The overlap is not established."
+    },
+    {
+        "id": "8f49942a32",
+        "category": "Logical Reasoning",
+        "question": "Find the odd one: 27, 64, 125, 196.",
+        "options": [
+            "27",
+            "64",
+            "125",
+            "196"
+        ],
+        "correct": 3,
+        "explanation": "First three are perfect cubes."
+    },
+    {
+        "id": "a5674c18c2",
+        "category": "Logical Reasoning",
+        "question": "If 1 January is Monday in a non-leap year, 1 March is?",
+        "options": [
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "correct": 1,
+        "explanation": "59 days shift gives Thursday."
+    },
+    {
+        "id": "dab96bcf1d",
+        "category": "Logical Reasoning",
+        "question": "Five people: D is left of A, A left of B, B left of C, C left of E. Who is middle?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "correct": 1,
+        "explanation": "Order D-A-B-C-E."
+    },
+    {
+        "id": "82afff1f15",
+        "category": "Logical Reasoning",
+        "question": "Find next: 3, 8, 18, 38, 78, ?",
+        "options": [
+            "148",
+            "156",
+            "158",
+            "168"
+        ],
+        "correct": 2,
+        "explanation": "Multiply by 2 and add 2."
+    },
+    {
+        "id": "b0f5a8528b",
+        "category": "Logical Reasoning",
+        "question": "Rank 12th from top and 19th from bottom. Total students?",
+        "options": [
+            "29",
+            "30",
+            "31",
+            "32"
+        ],
+        "correct": 1,
+        "explanation": "12 + 19 - 1 = 30."
+    },
+    {
+        "id": "47535d8522",
+        "category": "Logical Reasoning",
+        "question": "If + means multiplication and x means subtraction, evaluate 8 + 3 x 4.",
+        "options": [
+            "20",
+            "28",
+            "32",
+            "36"
+        ],
+        "correct": 0,
+        "explanation": "8 x 3 - 4 = 20."
+    },
+    {
+        "id": "7c27edf137",
+        "category": "Logical Reasoning",
+        "question": "Find next: 121, 144, 169, 196, ?",
+        "options": [
+            "210",
+            "215",
+            "225",
+            "256"
+        ],
+        "correct": 2,
+        "explanation": "Squares of 11,12,13,14,15."
+    },
+    {
+        "id": "60c0875acf",
+        "category": "Logical Reasoning",
+        "question": "A is taller than B. C is taller than A. D is shorter than B. Tallest?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "correct": 2,
+        "explanation": "C is tallest."
+    },
+    {
+        "id": "edcebc43bf",
+        "category": "Logical Reasoning",
+        "question": "Complete: AB, DE, GH, JK, ?",
+        "options": [
+            "LM",
+            "MN",
+            "NO",
+            "OP"
+        ],
+        "correct": 1,
+        "explanation": "Each pair advances three letters."
+    },
+    {
+        "id": "439f41118a",
+        "category": "Verbal Ability",
+        "question": "Choose correct sentence.",
+        "options": [
+            "Neither boys are present.",
+            "Neither of the boys is present.",
+            "Neither boys is present.",
+            "Neither of boys are present."
+        ],
+        "correct": 1,
+        "explanation": "Neither takes a singular verb."
+    },
+    {
+        "id": "884cdcc08a",
+        "category": "Verbal Ability",
+        "question": "Synonym of Meticulous?",
+        "options": [
+            "Careless",
+            "Precise",
+            "Hasty",
+            "Casual"
+        ],
+        "correct": 1,
+        "explanation": "Meticulous means very careful."
+    },
+    {
+        "id": "45d06c4a8e",
+        "category": "Verbal Ability",
+        "question": "Antonym of Obsolete?",
+        "options": [
+            "Outdated",
+            "Ancient",
+            "Modern",
+            "Useless"
+        ],
+        "correct": 2,
+        "explanation": "Obsolete means outdated."
+    },
+    {
+        "id": "bc324caa70",
+        "category": "Verbal Ability",
+        "question": "Had I known, I ____ attended.",
+        "options": [
+            "will have",
+            "would have",
+            "would",
+            "had"
+        ],
+        "correct": 1,
+        "explanation": "Third conditional uses would have."
+    },
+    {
+        "id": "9a7809ba09",
+        "category": "Verbal Ability",
+        "question": "Passive voice: The team completed the project.",
+        "options": [
+            "The project completed by team.",
+            "The project was completed by the team.",
+            "The project is completed.",
+            "The team was completed."
+        ],
+        "correct": 1,
+        "explanation": "Past simple passive: was + past participle."
+    },
+    {
+        "id": "3ef2f58fe0",
+        "category": "Verbal Ability",
+        "question": "Correct spelling?",
+        "options": [
+            "Accomodation",
+            "Accommodation",
+            "Acommodation",
+            "Accommadation"
+        ],
+        "correct": 1,
+        "explanation": "Accommodation is correct."
+    },
+    {
+        "id": "b3108b8732",
+        "category": "Verbal Ability",
+        "question": "Find the error: Each of the students have submitted their assignment.",
+        "options": [
+            "Each of",
+            "the students",
+            "have submitted",
+            "their assignment"
+        ],
+        "correct": 2,
+        "explanation": "Each is singular: has submitted."
+    },
+    {
+        "id": "285cda01ce",
+        "category": "Verbal Ability",
+        "question": "Meaning of Burn the midnight oil?",
+        "options": [
+            "Waste electricity",
+            "Work late at night",
+            "Start fire",
+            "Sleep early"
+        ],
+        "correct": 1,
+        "explanation": "It means working late at night."
+    },
+    {
+        "id": "d16c921811",
+        "category": "Verbal Ability",
+        "question": "She is proficient ____ Python.",
+        "options": [
+            "at",
+            "in",
+            "on",
+            "with"
+        ],
+        "correct": 1,
+        "explanation": "Proficient in is the standard expression."
+    },
+    {
+        "id": "f3324b6aa2",
+        "category": "Verbal Ability",
+        "question": "Indirect speech: He said, I am busy.",
+        "options": [
+            "He said I am busy.",
+            "He said that he was busy.",
+            "He says he is busy.",
+            "He said he busy."
+        ],
+        "correct": 1,
+        "explanation": "Present changes to past in reported speech."
+    },
+    {
+        "id": "aba957779f",
+        "category": "Verbal Ability",
+        "question": "A person who speaks many languages?",
+        "options": [
+            "Linguist",
+            "Polyglot",
+            "Orator",
+            "Translator"
+        ],
+        "correct": 1,
+        "explanation": "Polyglot speaks multiple languages."
+    },
+    {
+        "id": "eb4318f4b4",
+        "category": "Verbal Ability",
+        "question": "Choose correct sentence.",
+        "options": [
+            "Despite of rain, we played.",
+            "Despite the rain, we played.",
+            "Although the rain, we played.",
+            "In spite rain, we played."
+        ],
+        "correct": 1,
+        "explanation": "Despite is followed directly by a noun phrase."
+    },
+    {
+        "id": "50b0bdd25b",
+        "category": "Verbal Ability",
+        "question": "Meaning of Pragmatic?",
+        "options": [
+            "Idealistic",
+            "Practical",
+            "Emotional",
+            "Uncertain"
+        ],
+        "correct": 1,
+        "explanation": "Pragmatic means practical."
+    },
+    {
+        "id": "c7f9c80233",
+        "category": "Verbal Ability",
+        "question": "Doctor : Hospital :: Teacher : ?",
+        "options": [
+            "Court",
+            "School",
+            "Laboratory",
+            "Bank"
+        ],
+        "correct": 1,
+        "explanation": "Teacher commonly works in a school."
+    },
+    {
+        "id": "04db2d5bd9",
+        "category": "Verbal Ability",
+        "question": "No sooner ____ the train left than it started raining.",
+        "options": [
+            "has",
+            "had",
+            "was",
+            "did"
+        ],
+        "correct": 1,
+        "explanation": "No sooner had...than."
+    },
+    {
+        "id": "6809097998",
+        "category": "Technical Knowledge",
+        "question": "Binary search time complexity?",
+        "options": [
+            "O(n)",
+            "O(log n)",
+            "O(n log n)",
+            "O(1)"
+        ],
+        "correct": 1,
+        "explanation": "Search space is halved each iteration."
+    },
+    {
+        "id": "51c44b8619",
+        "category": "Technical Knowledge",
+        "question": "Java class acquires properties of another class using?",
+        "options": [
+            "Encapsulation",
+            "Inheritance",
+            "Polymorphism",
+            "Abstraction"
+        ],
+        "correct": 1,
+        "explanation": "Inheritance supports code reuse."
+    },
+    {
+        "id": "73338804fa",
+        "category": "Technical Knowledge",
+        "question": "Which SQL clause filters groups?",
+        "options": [
+            "WHERE",
+            "ORDER BY",
+            "HAVING",
+            "DISTINCT"
+        ],
+        "correct": 2,
+        "explanation": "HAVING filters aggregated groups."
+    },
+    {
+        "id": "57b0a375cf",
+        "category": "Technical Knowledge",
+        "question": "Data structure used in recursive calls?",
+        "options": [
+            "Queue",
+            "Stack",
+            "Heap",
+            "Graph"
+        ],
+        "correct": 1,
+        "explanation": "Function calls are maintained in call stack."
+    },
+    {
+        "id": "5b8373516b",
+        "category": "Technical Knowledge",
+        "question": "Which normal form removes partial dependencies?",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "correct": 1,
+        "explanation": "Second Normal Form removes partial dependencies."
+    },
+    {
+        "id": "c471cb8217",
+        "category": "Technical Knowledge",
+        "question": "Reliable connection-oriented protocol?",
+        "options": [
+            "UDP",
+            "IP",
+            "TCP",
+            "ARP"
+        ],
+        "correct": 2,
+        "explanation": "TCP provides reliable ordered communication."
+    },
+    {
+        "id": "de7a072c22",
+        "category": "Technical Knowledge",
+        "question": "Python type of []?",
+        "options": [
+            "tuple",
+            "dict",
+            "list",
+            "set"
+        ],
+        "correct": 2,
+        "explanation": "Square brackets create a list."
+    },
+    {
+        "id": "a359c3b74b",
+        "category": "Technical Knowledge",
+        "question": "Which OOP concept hides implementation complexity?",
+        "options": [
+            "Inheritance",
+            "Encapsulation",
+            "Abstraction",
+            "Overloading"
+        ],
+        "correct": 2,
+        "explanation": "Abstraction hides unnecessary implementation details."
+    },
+    {
+        "id": "2b0f4a364b",
+        "category": "Technical Knowledge",
+        "question": "Average hash table search complexity?",
+        "options": [
+            "O(1)",
+            "O(log n)",
+            "O(n)",
+            "O(n log n)"
+        ],
+        "correct": 0,
+        "explanation": "Average lookup is constant time."
+    },
+    {
+        "id": "29f9bf058f",
+        "category": "Technical Knowledge",
+        "question": "SQL command that removes a table structure?",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "DROP",
+            "TRUNCATE"
+        ],
+        "correct": 2,
+        "explanation": "DROP removes the table."
+    },
+    {
+        "id": "560bd2325b",
+        "category": "Technical Knowledge",
+        "question": "Which scheduling algorithm may cause starvation?",
+        "options": [
+            "FCFS",
+            "Round Robin",
+            "Priority Scheduling",
+            "FIFO"
+        ],
+        "correct": 2,
+        "explanation": "Low priority processes may wait indefinitely."
+    },
+    {
+        "id": "d7e2342e76",
+        "category": "Technical Knowledge",
+        "question": "Binary 1010 AND 1100?",
+        "options": [
+            "1000",
+            "1110",
+            "0110",
+            "1010"
+        ],
+        "correct": 0,
+        "explanation": "Bitwise AND gives 1000."
+    },
+    {
+        "id": "8818acfc43",
+        "category": "Technical Knowledge",
+        "question": "HTTP status code for Not Found?",
+        "options": [
+            "200",
+            "301",
+            "403",
+            "404"
+        ],
+        "correct": 3,
+        "explanation": "404 indicates resource not found."
+    },
+    {
+        "id": "448e6b9587",
+        "category": "Technical Knowledge",
+        "question": "Which ACID property ensures all-or-nothing?",
+        "options": [
+            "Consistency",
+            "Isolation",
+            "Atomicity",
+            "Durability"
+        ],
+        "correct": 2,
+        "explanation": "Atomicity ensures complete execution or rollback."
+    },
+    {
+        "id": "7f93ea1723",
+        "category": "Technical Knowledge",
+        "question": "Quick Sort worst-case complexity?",
+        "options": [
+            "O(n)",
+            "O(n log n)",
+            "O(n²)",
+            "O(log n)"
+        ],
+        "correct": 2,
+        "explanation": "Highly unbalanced partitions result in O(n²)."
+    }
+]
